@@ -31,6 +31,7 @@ The Azure AD module is supported on the following Windows operating systems with
 
 :::row:::
     :::column:::
+        - Windows 10
         - Windows 8.1
         - Windows 8
         - Windows 7
